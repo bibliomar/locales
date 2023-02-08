@@ -1,0 +1,21 @@
+{
+  "errorText1": "Sorry, you need to access this page through a search results page.",
+  "errorText2": "If this message appeared while you were trying to access a book, it means we couldn't retrieve it's info from our servers. Please try again later.",
+  "altAddToLibrary": "Add to library",
+  "undefinedDescription": "No description available.",
+  "description": "Description",
+  "format": "Format",
+  "filesize": "File size",
+  "undefinedField": "Undefined",
+  "language": "Language",
+  "year": "Year",
+  "publisher": "Publisher",
+  "edition": "Edition",
+  "series": "Series",
+  "onlyEpubFiles": "Only EPUB files are allowed",
+  "onLibrary": "In your library",
+  "fiction": "Fiction",
+  "nonfiction": "Nonfiction",
+  "downloadWaitInfo": "O download pode demorar para iniciar.",
+  "downloadErrorInfo": "Erro ao receber as informações de download."
+}

@@ -1,0 +1,21 @@
+{
+  "errorText1": "Desculpe, você precisa acessar essa página a partir da pesquisa ou de sua biblioteca.",
+  "errorText2": "Caso essa mensagem apareça enquanto você acessa um livro, signifca que não conseguimos recuperar as informações do mesmo em nosso servidor. Pedimos que tente novamente mais tarde.",
+  "altAddToLibrary": "Adicionar a biblioteca",
+  "undefinedDescription": "Não há descrição disponível para este livro.",
+  "description": "Descrição",
+  "format": "Formato",
+  "filesize": "Tamanho",
+  "undefinedField": "Não definido",
+  "language": "Linguagem",
+  "year": "Ano",
+  "publisher": "Editora",
+  "edition": "Edição",
+  "series": "Série",
+  "onlyEpubFiles": "Somente arquivos EPUB são suportados",
+  "onLibrary": "Na sua biblioteca",
+  "fiction": "Ficção",
+  "nonfiction": "Não ficção",
+  "downloadWaitInfo": "O download pode demorar para iniciar.",
+  "downloadErrorInfo": "Erro ao receber as informações de download."
+}
