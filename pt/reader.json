@@ -48,5 +48,8 @@
   "carregando": "Carregando...",
   "casoOAvanoDePginasTraveMudeOCaptuloManualmente": "Caso o avanço de páginas trave, mude o capítulo manualmente.",
   "pginaDeNesteCaptulo": "Página {{page}} de {{total}} neste capítulo.",
-  "aparncia": "Aparência"
+  "aparncia": "Aparência",
+  "editBack": "Voltar",
+  "editConfirm": "Confirmar",
+  "editUserConfirmation": "Tem certeza?"
 }

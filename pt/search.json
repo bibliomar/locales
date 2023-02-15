@@ -20,8 +20,17 @@
   "pesquisarPor": "Pesquisar por:",
   "todas": "Todas <b/>",
   "maisLento": "Mais lento",
-  "categoria": "Categoria:",
+  "topico": "Topico:",
   "todos2": "Todos",
+  "nonfiction": "Não ficção",
+  "fiction": "Ficção",
+  "title": "Título",
+  "author": "Autor",
   "pesquisar": "Pesquisar",
-  "greeting": "Sua suíte de leitura: pesquise, baixe e leia livros gratuitamente."
+  "greeting": "Sua suíte de leitura: pesquise, baixe e leia livros gratuitamente.",
+  "enableFulltext": "Ativar pesquisa estruturada",
+  "noConseguimosEncontrarMaisResultados": "Não conseguimos encontrar mais resultados.",
+  "placeholder": "Pesquise por título, autor ou palavra-chave",
+  "exibindoDeMaisDeEncontradosEmMs": "Mostrando <s>{{offset}} - {{limit}}</s> de mais de <s2>{{paginableResults}}</s2> resultados encontrados em <s3>{{tookTime}}ms</s3>",
+  "exibindoDeEncontradosEmMs": "Exibindo <s>{{offset}} - {{limit}} </s> de <s2>{{totalResults}}</s2> resultados encontrados em <s3>{{tookTime}}ms </s3>"
 }
