@@ -32,5 +32,8 @@
   "noConseguimosEncontrarMaisResultados": "Não conseguimos encontrar mais resultados.",
   "placeholder": "Pesquise por título, autor ou palavra-chave",
   "exibindoDeMaisDeEncontradosEmMs": "Mostrando <s>{{offset}} - {{limit}}</s> de mais de <s2>{{paginableResults}}</s2> resultados encontrados em <s3>{{tookTime}}ms</s3>",
-  "exibindoDeEncontradosEmMs": "Exibindo <s>{{offset}} - {{limit}} </s> de <s2>{{totalResults}}</s2> resultados encontrados em <s3>{{tookTime}}ms </s3>"
+  "exibindoDeEncontradosEmMs": "Exibindo <s>{{offset}} - {{limit}} </s> de <s2>{{totalResults}}</s2> resultados encontrados em <s3>{{tookTime}}ms </s3>",
+  "exibindoEncontradosEmMs": "Exibindo <s>{{totalResults}}</s> resultados encontrados em <s2>{{tookTime}}ms</s2>",
+  "formatoIndefinido": "Formato indefinido",
+  "tamanhoIndefinido": "Tamanho indefinido"
 }

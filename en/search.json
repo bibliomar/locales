@@ -31,6 +31,9 @@
   "enableFulltext": "Enable full-text search",
   "noConseguimosEncontrarMaisResultados": "We couldn't find more results.",
   "placeholder": "Search by title, author or keyword",
-  "exibindoDeMaisDeEncontradosEmMs": "Displaying <s>{{offset}} - {{limit}}</s> from more than <s2>{{paginableResults}}</s2> results found in <s3>{{tookTime}}ms</s3>",
-  "exibindoDeEncontradosEmMs": "Displaying <s>{{offset}} - {{limit}}</s> from <s2>{{totalResults}}</s2> results found in <s3>{{tookTime}}ms</s3>"
+  "exibindoDeMaisDeEncontradosEmMs": "Showing <s>{{offset}} - {{limit}}</s> from more than <s2>{{paginableResults}}</s2> results found in <s3>{{tookTime}}ms</s3>",
+  "exibindoDeEncontradosEmMs": "Showing <s>{{offset}} - {{limit}}</s> from <s2>{{totalResults}}</s2> results found in <s3>{{tookTime}}ms</s3>",
+  "exibindoEncontradosEmMs": "Showing <s>{{totalResults}}</s> results found in <s2>{{tookTime}}ms</s2>",
+  "formatoIndefinido": "Undefined format",
+  "tamanhoIndefinido": "Undefined size"
 }
