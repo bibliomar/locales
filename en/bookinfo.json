@@ -16,6 +16,6 @@
   "onLibrary": "In your library",
   "fiction": "Fiction",
   "nonfiction": "Nonfiction",
-  "downloadWaitInfo": "O download pode demorar para iniciar.",
-  "downloadErrorInfo": "Erro ao receber as informações de download."
+  "downloadWaitInfo": "Download may take a while to start.",
+  "downloadErrorInfo": "Error receiving download information."
 }
