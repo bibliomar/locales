@@ -16,6 +16,7 @@
   "onLibrary": "In your library",
   "fiction": "Fiction",
   "nonfiction": "Nonfiction",
-  "downloadWaitInfo": "Download may take a while to start.",
-  "downloadErrorInfo": "Error receiving download information."
+  "downloadWaitInfo": "This will open a new tab.",
+  "downloadErrorInfo": "Error receiving download information.",
+  "livrosSemelhantes": "Similar books"
 }

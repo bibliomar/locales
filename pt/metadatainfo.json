@@ -16,6 +16,15 @@
   "onLibrary": "Na sua biblioteca",
   "fiction": "Ficção",
   "nonfiction": "Não ficção",
-  "downloadWaitInfo": "O download pode demorar para iniciar.",
-  "downloadErrorInfo": "Erro ao receber as informações de download."
+  "downloadWaitInfo": "Uma nova aba será aberta.",
+  "downloadErrorInfo": "Erro ao receber as informações de download.",
+  "livrosSemelhantes": "Livros semelhantes",
+  "vocPrecisaEstarLogadoParaAdicionarLivros": "Você precisa estar logado para adicionar livros!",
+  "Livromovidocomsucesso": "Livro movido com sucesso!",
+  "Livroadicionadocomsucesso": "Livro adicionado com sucesso!",
+  "oLivroJSeEncontraNaCategoria": "O livro já se encontra na categoria",
+  "erroAoAdicionarLivroPorFavorTenteNovamente": "Erro ao adicionar livro. Por favor, tente novamente.",
+  "seOErroPersistirEntreEmContatoNoNossoDiscord": "Se o erro persistir, entre em contato no nosso Discord.",
+  "movendoLivro": "Movendo livro...",
+  "adicionandoLivro": "Adicionando livro..."
 }

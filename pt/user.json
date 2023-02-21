@@ -25,5 +25,16 @@
   "jTenhoUmaConta": "Já tenho uma conta",
   "noConseguimosFazerSeuRegistroTenteNovamenteMaisTar": "Não conseguimos fazer seu registro, tente novamente mais tarde.",
   "nomeDeUsuarioOuEmailEmUso": "Nome de usuario ou email em uso.",
-  "tudoCertoSuaContaFoiCriadaEJVamosTeEnviarPraPrxima": "Tudo certo! Sua conta foi criada e já vamos te enviar pra próxima página..."
+  "tudoCertoSuaContaFoiCriadaEJVamosTeEnviarPraPrxima": "Tudo certo! Sua conta foi criada e já vamos te enviar pra próxima página...",
+  "campoobrigatorio": "Campo obrigatório",
+  "emailinvalido": "Email inválido",
+  "senhadeveconter": "Senha deve conter pelo menos uma letra maiuscula, uma minuscula, um número e um caractere especial. Entre 6 e 16 caracteres.",
+  "noConseguimosAtualizarASenhaDoUsuarioEmQuestoTente": "Não conseguimos atualizar a senha do usuario em questão, tente novamente mais tarde.",
+  "algoDeuErradoAguardeUmPoucoETenteNovamente": "Algo deu errado, aguarde um pouco e tente novamente.",
+  "erroAoAtualizarSenhaVerifiqueSeAMesmaAtendeATodosO": "Erro ao atualizar senha. Verifique se a mesma atende a todos os requisitos.",
+  "erroAoAtualizarSenhaOTokenDeVerificaoExpirouOuInvl": "Erro ao atualizar senha. O token de verificação expirou ou é inválido.",
+  "recuperarSenhaDeAcesso": "Recuperar senha de acesso",
+  "redefinirSenhaDeAcesso": "Redefinir senha de acesso",
+  "Nomedeusuariodeveconterpelomenos5caracteres": "Nome de usuario deve conter pelo menos 5 caracteres.",
+  "Nomedeusuariodeveconternomáximo16caracteres": "Nome de usuario deve conter no máximo 16 caracteres."
 }
