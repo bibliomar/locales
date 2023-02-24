@@ -1,8 +1,9 @@
 {
-  "about": "Sobre",
-  "library": "Biblioteca",
-  "reader": "Leitor",
-  "user.signin": "Entrar",
-  "user.library": "Minha Biblioteca",
-  "user.signoff": "Sair"
+  "about": "About",
+  "library": "Library",
+  "reader": "Reader",
+  "user.signin": "Login",
+  "user.library": "My library",
+  "user.signoff": "Logout",
+  "explorar": "Explore"
 }

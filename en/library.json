@@ -24,10 +24,10 @@
   "planToReadExplanation": "Books that you plan to read",
   "backlogExplanation": "Books that you've already read or abandoned",
   "suaBiblioteca": "Your library",
-  "vazioQueTalAdicionarAlgumLivro": "Empty, how about adding some book?",
+  "vazioQueTalAdicionarAlgumLivro": "Empty, how about adding some books?",
   "nenhumLivroCorrespondeAosFiltrosSelecionados": "No books match the selected filters",
   "livrosNessaCategoria": "<s>{{length}} </s> books at this category",
-  "vazioQueTalAdicionarAlgumLivro2": "Empty, how about adding some book?",
+  "vazioQueTalAdicionarAlgumLivro2": "Empty, how about adding some books?",
   "nenhumLivroCorrespondeAosFiltrosSelecionados2": "No books match the selected filters",
   "undefinedField": "Not defined",
   "lendo": "Reading",
@@ -35,5 +35,9 @@
   "finalizado": "Finished",
   "abandonado": "Dropped",
   "livrosQueVocFinalizou": "Books that you have finished",
-  "livrosQueVocAbandonou": "Books that you have abandoned"
+  "livrosQueVocAbandonou": "Books that you have abandoned",
+  "erroAoMoverLivroJaSeEncontraNaCategoriaDeDestino": "Error while moving <s>{{title}} </s> . The book is already on the target category.",
+  "erroAoRemover": "Error while removing.",
+  "livroNoSeEncontraNaCategoriaDeDestino": ". The book is not on the target category..",
+  "erroAoRemover2": "Error while removing."
 }

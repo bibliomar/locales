@@ -18,5 +18,16 @@
   "nonfiction": "Nonfiction",
   "downloadWaitInfo": "This will open a new tab.",
   "downloadErrorInfo": "Error receiving download information.",
-  "livrosSemelhantes": "Similar books"
+  "livrosSemelhantes": "Similar books",
+  "vocPrecisaEstarLogadoParaAdicionarLivros": "You need to sign-in to add a book!",
+  "Livromovidocomsucesso": "Book successfully moved!",
+  "Livroadicionadocomsucesso": "Book successfully added!",
+  "oLivroJSeEncontraNaCategoria": "The book is already on the target category.",
+  "erroAoAdicionarLivroPorFavorTenteNovamente": "Error while adding book. Please, try again.",
+  "seOErroPersistirEntreEmContatoNoNossoDiscord": "If the error continues, please contact us in our Discord.",
+  "movendoLivro": "Moving book...",
+  "adicionandoLivro": "Adding book...",
+  "erroNaBuscaPorArquivosSemelhantes": "Error while searching for similar books.",
+  "nenhumItemEncontrado": "No item found.",
+  "nenhumItemEncontrado2": "No item found."
 }

@@ -36,5 +36,6 @@
   "recuperarSenhaDeAcesso": "Recuperar senha de acesso",
   "redefinirSenhaDeAcesso": "Redefinir senha de acesso",
   "Nomedeusuariodeveconterpelomenos5caracteres": "Nome de usuario deve conter pelo menos 5 caracteres.",
-  "Nomedeusuariodeveconternomáximo16caracteres": "Nome de usuario deve conter no máximo 16 caracteres."
+  "Nomedeusuariodeveconternomáximo16caracteres": "Nome de usuario deve conter no máximo 16 caracteres.",
+  "enviandoEmail": "Enviando email..."
 }

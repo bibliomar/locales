@@ -26,5 +26,8 @@
   "erroAoAdicionarLivroPorFavorTenteNovamente": "Erro ao adicionar livro. Por favor, tente novamente.",
   "seOErroPersistirEntreEmContatoNoNossoDiscord": "Se o erro persistir, entre em contato no nosso Discord.",
   "movendoLivro": "Movendo livro...",
-  "adicionandoLivro": "Adicionando livro..."
+  "adicionandoLivro": "Adicionando livro...",
+  "erroNaBuscaPorArquivosSemelhantes": "Erro na busca por arquivos semelhantes.",
+  "nenhumItemEncontrado": "Nenhum item encontrado.",
+  "nenhumItemEncontrado2": "Nenhum item encontrado."
 }

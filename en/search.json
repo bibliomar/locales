@@ -35,5 +35,11 @@
   "exibindoDeEncontradosEmMs": "Showing <s>{{offset}} - {{limit}}</s> from <s2>{{totalResults}}</s2> results found in <s3>{{tookTime}}ms</s3>",
   "exibindoEncontradosEmMs": "Showing <s>{{totalResults}}</s> results found in <s2>{{tookTime}}ms</s2>",
   "formatoIndefinido": "Undefined format",
-  "tamanhoIndefinido": "Undefined size"
+  "tamanhoIndefinido": "Undefined size",
+  "aSugestoDePesquisaMostraResultadosComBaseNosFiltro": "The search suggestions are based on your selected filters.",
+  "vocPodePesquisarPorFormatosELinguagensDiretamenteN": "You can search by format and language directly on the search bar.",
+  "nossoDiscordOMelhorLocalParaFazerSugestesQualquerF": "Our Discord is the best place to make suggestions. Your feedback is really valuable!",
+  "vocPodePressionarOIconeProximoAoIconeDePesquisaPar": "You can press the icon next to the search bar to enable the filtered seach.",
+  "experimenteO": "Try out",
+  "betaDoBibliomar": "Bibliomar's beta"
 }
