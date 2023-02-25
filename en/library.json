@@ -22,7 +22,7 @@
   "backlog": "Backlog",
   "readingExplanation": "Books that you are reading",
   "planToReadExplanation": "Books that you plan to read",
-  "backlogExplanation": "Books that you've already read or abandoned",
+  "backlogExplanation": "Books that you don't plan to read immediately",
   "suaBiblioteca": "Your library",
   "vazioQueTalAdicionarAlgumLivro": "Empty, how about adding some books?",
   "nenhumLivroCorrespondeAosFiltrosSelecionados": "No books match the selected filters",

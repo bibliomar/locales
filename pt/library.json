@@ -22,7 +22,7 @@
   "backlog": "Backlog",
   "readingExplanation": "Livros que você está lendo agora",
   "planToReadExplanation": "Livros que você planeja ler",
-  "backlogExplanation": "Livros que você já leu ou abandonou",
+  "backlogExplanation": "Livros que você não planeja ler imediatamente",
   "suaBiblioteca": "Sua biblioteca",
   "vazioQueTalAdicionarAlgumLivro": "Vazio, que tal adicionar algum livro?",
   "nenhumLivroCorrespondeAosFiltrosSelecionados": "Nenhum livro corresponde aos filtros selecionados.",
