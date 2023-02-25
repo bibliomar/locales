@@ -41,5 +41,6 @@
   "nossoDiscordOMelhorLocalParaFazerSugestesQualquerF": "Nosso Discord é o melhor local para fazer sugestões. Qualquer feedback é bem vindo!",
   "vocPodePressionarOIconeProximoAoIconeDePesquisaPar": "Você pode pressionar o icone proximo ao icone de pesquisa para ativar a pesquisa com filtros.",
   "experimenteO": "Experimente o",
-  "betaDoBibliomar": "beta do Bibliomar"
+  "betaDoBibliomar": "beta do Bibliomar",
+  "bemVindoDeVoltaEsperamosQueEncontreOQueProcura": "Bem vindo de volta, <s>{{username}}</s>! <b/> Esperamos que encontre o que você procura."
 }

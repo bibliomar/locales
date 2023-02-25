@@ -39,5 +39,10 @@
   "erroAoMoverLivroJaSeEncontraNaCategoriaDeDestino": "Erro ao mover <s>{{title}} </s> . Livro ja se encontra na categoria de destino.",
   "erroAoRemover": "Erro ao remover",
   "livroNoSeEncontraNaCategoriaDeDestino": ". Livro não se encontra na categoria de destino.",
-  "erroAoRemover2": "Erro ao remover"
+  "erroAoRemover2": "Erro ao remover",
+  "removendo": "Removendo {{title}}...",
+  "movendo": "Movendo {{title}}...",
+  "livrosMovidosComSucesso": "{{movedBooksNum}} livros movidos com sucesso.",
+  "livrosRemovidosComSucesso": "{{removedBooksNum}} livros removidos com sucesso.",
+  "umaColeoDeLivros": "Uma coleção de <s>{{numOfBooks}} </s> livros."
 }

@@ -29,5 +29,11 @@
   "adicionandoLivro": "Adicionando livro...",
   "erroNaBuscaPorArquivosSemelhantes": "Erro na busca por arquivos semelhantes.",
   "nenhumItemEncontrado": "Nenhum item encontrado.",
-  "nenhumItemEncontrado2": "Nenhum item encontrado."
+  "nenhumItemEncontrado2": "Nenhum item encontrado.",
+  "moverPara": "Mover para",
+  "adicionar": "Adicionar à",
+  "MOVE": "MOVER",
+  "ADD": "ADICIONAR",
+  "timeadded": "Adicionado em",
+  "timelastmodified": "Ultima modificação"
 }
