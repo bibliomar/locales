@@ -57,5 +57,16 @@
   "comEsseProcessoFinalizadoSeuLivroDeveAparecerNoAce": "Com esse processo finalizado, seu livro deve aparecer no acervo do Bibliomar em pelo menos 24 horas.",
   "esseOTempoQueArmazenamosAsPesquisasEmCache": "Esse é o tempo que armazenamos as pesquisas em cache.",
   "maisUmaVezMuitoObrigadoAComunidadeAgradece": "Mais uma vez, muito obrigado, a comunidade agradece!",
-  "muitaCoisaMudouNoBibliomarEssaSeoSerAtualizadaEmBr": "Muita coisa mudou no Bibliomar. Essa seção será atualizada em breve."
+  "muitaCoisaMudouNoBibliomarEssaSeoSerAtualizadaEmBr": "Muita coisa mudou no Bibliomar. Essa seção será atualizada em breve.",
+  "comoFuncionaAPesquisaEstruturada": "Como funciona a pesquisa estruturada?",
+  "aPesquisaEstruturadaUmaDasAdiesDaVerso30DoBiblioma": "A pesquisa estruturada é uma das adições da versão 3.0 do Bibliomar.",
+  "elaPermiteEmTermosSimplesQueVocPesquiseEmTodosOsCa": "Ela permite, em termos simples, que você pesquise em todos os campos ao mesmo tempo, utilizando diversos filtros e operadores.",
+  "porExemploTituloAutorLinguagemEtcOperadoresAndOrMa": "Por exemplo, titulo, autor, linguagem, etc. Operadores AND / OR / MAYBE.",
+  "mesmoComOSeletorDaPesquisaEstruturadaDesativadaOBi": "Mesmo com o seletor da pesquisa estruturada desativada, o Bibliomar ainda usa esse tipo de pesquisa internamente.",
+  "aDiferenaQueCasoEstejaDesativadaNsAplicamosOsFiltr": "A diferença é que, caso esteja desativada, nós aplicamos os filtros para você.",
+  "attributosPesquisaveis": "Attributos pesquisaveis:",
+  "exemploTitleONomeDoVentoFloresParaAlgernon": "Exemplo: @title O nome do vento | Flores para Algernon",
+  "encontraResultadosRelevantesParaONomeDoVentoOuFlor": "Encontra resultados relevantes para o nome do vento OU Flores para Algernon.",
+  "paraEntenderMelhorOsOperadoresDisponveisNaPesquisa": "Para entender melhor os operadores disponíveis na pesquisa estruturada",
+  "acesseEsseLink": "acesse esse link."
 }
