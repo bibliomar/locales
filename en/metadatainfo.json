@@ -35,5 +35,7 @@
   "MOVE": "MOVE",
   "ADD": "ADD",
   "timeadded": "Added at",
-  "timelastmodified": "Last modified at"
+  "timelastmodified": "Last modified at",
+  "apoieOAutor": "Support the author",
+  "oBibliomarNoHospedaQuaisquerArquivosDeLivrosEmSeus": "Bibliomar <s>does not</s> host or distribute any book files available in this site. All rights are reserved to their respective parts."
 }

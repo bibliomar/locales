@@ -68,5 +68,18 @@
   "exemploTitleONomeDoVentoFloresParaAlgernon": "Exemplo: @title O nome do vento | Flores para Algernon",
   "encontraResultadosRelevantesParaONomeDoVentoOuFlor": "Encontra resultados relevantes para o nome do vento OU Flores para Algernon.",
   "paraEntenderMelhorOsOperadoresDisponveisNaPesquisa": "Para entender melhor os operadores disponíveis na pesquisa estruturada",
-  "acesseEsseLink": "acesse esse link."
+  "acesseEsseLink": "acesse esse link.",
+  "comoTornamosOBibliomarSeguro": "Como tornamos o Bibliomar seguro?",
+  "maisImportanteDoQuAdicionarNovasFunesTornarAsExist": "Mais importante do quê adicionar novas funções é tornar as existentes seguras. Se você está lendo isso, provavelmente se preocupa com a segurança dos seus dados, e nós também.",
+  "primeiramenteTodasAsRotasDoBibliomarTantoDoCliente": "Primeiramente, todas as rotas do Bibliomar, tanto do cliente quanto do servidor, são servidas através do protocolo HTTPs.",
+  "emResumoIssoSignificaQueOsSeusDadosTemCriptografia": "Em resumo, isso significa que os seus dados tem criptografia de ponta a ponta, desde a sua conexão do navegador com o cliente, até a conexão do cliente com o servidor, impedindo que terceiros possam interceptá-los.",
+  "almDissoTodasAsSenhasEInformaesSensveisDosUsuarios": "Além disso, todas as senhas e informações sensíveis dos usuarios são criptografadas antes de serem inseridas em nosso banco de dados.",
+  "nsUsamosOAlgortimoDeCriptografiaPbkdf2ParaCriptogr": "Nós usamos o algortimo de criptografia <i> PBKDF2 </i>{{expr}} para criptografar senhas. Esse algoritmo, além de extremamente eficaz, não possui nenhuma vulnerabilidade conhecida.",
+  "eParaComplementarASeguranaTambmUtilizamosOAlgortim": "E para complementar a segurança, também utilizamos o algortimo <i> SHA-512 </i> para proteção extra.",
+  "emTermosSimplesIssoSignificaQueNingumPodeVisualiza": "Em termos simples, isso significa que{{expr}} <s> ninguém </s> pode visualizar sua senha, isso incluí você, o usuario, e nós, a equipe do Bibliomar.",
+  "oQueTambmSignificaQueEmCasoDePerdaDeSenhaNsSPodere": "O que também significa que em caso de perda de senha, nós só poderemos recuperar sua conta caso esteja cadastrada com um email válido ;)",
+  "seNingumPodeSaberMinhaSenhaComoEuConsigoFazerLogin": "Se ninguém pode saber minha senha, como eu consigo fazer login?",
+  "simplesQuandoVocDigitaSuaSenhaETentaFazerLoginNsCr": "É simples: quando vocẽ digita sua senha e tenta fazer login, nós criptografamos a senha de sua tentativa, e comparamos (de forma segura) o hash (a string ininteligível que é armazenada no banco de dados) dessa senha com a que consta em nosso banco de dados.",
+  "seOsHashsCoincidemOUsuarioRecebePermissoParaAcessa": "Se os hashs coincidem, o usuario recebe permissão para acessar os seus dados.",
+  "noExisteNenhumaFormaDeFalsificarEsseHashOuBurlarEs": "Não existe nenhuma forma de falsificar esse hash, ou burlar esse sistema."
 }
