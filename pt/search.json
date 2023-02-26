@@ -42,5 +42,7 @@
   "vocPodePressionarOIconeProximoAoIconeDePesquisaPar": "Você pode pressionar o icone proximo ao icone de pesquisa para ativar a pesquisa com filtros.",
   "experimenteO": "Experimente o",
   "betaDoBibliomar": "beta do Bibliomar",
-  "bemVindoDeVoltaEsperamosQueEncontreOQueProcura": "Bem vindo de volta, <s>{{username}}</s>! <b/> Esperamos que encontre o que você procura."
+  "bemVindoDeVoltaEsperamosQueEncontreOQueProcura": "Bem vindo de volta, <s>{{username}}</s>! <b/> Esperamos que encontre o que você procura.",
+  "espanhol": "Espanhol",
+  "francs": "Francês"
 }

@@ -42,5 +42,7 @@
   "vocPodePressionarOIconeProximoAoIconeDePesquisaPar": "You can press the icon next to the search bar to enable the filtered seach.",
   "experimenteO": "Try out",
   "betaDoBibliomar": "Bibliomar's beta",
-  "bemVindoDeVoltaEsperamosQueEncontreOQueProcura": "Welcome back, <s>{{username}}</s>! <b/> We hope you find what you are looking for."
+  "bemVindoDeVoltaEsperamosQueEncontreOQueProcura": "Welcome back, <s>{{username}}</s>! <b/> We hope you find what you are looking for.",
+  "espanhol": "Spanish",
+  "francs": "French"
 }
