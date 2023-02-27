@@ -44,5 +44,6 @@
   "movendo": "Moving {{title}}...",
   "livrosMovidosComSucesso": "{{movedBooksNum}} books successfully moved.",
   "livrosRemovidosComSucesso": "{{removedBooksNum}} books successfully removed.",
-  "umaColeoDeLivros": "A collection of <s>{{numOfBooks}} </s> books."
+  "umaColeoDeLivros": "A collection of <s>{{numOfBooks}} </s> books.",
+  "livrosCorrespondemAosFiltrosSelecionados": "{{length}} books meet the filters criteria."
 }
