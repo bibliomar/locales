@@ -50,7 +50,7 @@
   "removendoLivros": "Removendo livros...",
   "erroAoMoverTenteNovamente": "Erro ao mover: {{title}}, tente novamente.",
   "biggestReadByPages": "Maior leitura: <s>{{title}} </s> por <s2>{{author}} </s2> ( {{pages}} páginas)",
-  "yearlyReadingAverageBookPerMonth": "Média de leitura anual: <s>{{monthlyAverage}} </s> livro por mês",
+  "yearlyReadingAverageBookPerMonth": "Média de leitura anual: <s>{{monthlyAverage}} </s> livros por mês",
   "totalPagesReadPages": "Total de páginas lidas: <s>{{pagesRead}} </s> páginas",
   "totalBooksBooks": "Total de livros: <s>{{calculateNumOfBooks}} </s>{{expr}} livros",
   "statistics": "Estatísticas",
@@ -59,5 +59,9 @@
   "removendoLivros2": "Removendo livros...",
   "movendoLivros": "Movendo livros...",
   "yourLibraryComposition": "Sua composição de biblioteca",
-  "yourMonthlyReading": "Sua leitura mensal"
+  "yourMonthlyReading": "Sua leitura mensal",
+  "nonFiction": "Não ficção",
+  "fiction": "Ficção",
+  "totalBooks": "Total de livros",
+  "finishedBooks": "Livros finalizados"
 }

@@ -59,5 +59,9 @@
   "removendoLivros2": "Removing books...",
   "movendoLivros": "Moving books...",
   "yourLibraryComposition": "Your library composition",
-  "yourMonthlyReading": "Your monthly reading"
+  "yourMonthlyReading": "Your monthly reading",
+  "nonFiction": "Non fiction",
+  "fiction": "Fiction",
+  "totalBooks": "Total books",
+  "finishedBooks": "Finished books"
 }
