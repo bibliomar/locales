@@ -45,5 +45,19 @@
   "livrosMovidosComSucesso": "{{movedBooksNum}} books successfully moved.",
   "livrosRemovidosComSucesso": "{{removedBooksNum}} books successfully removed.",
   "umaColeoDeLivros": "A collection of <s>{{numOfBooks}} </s> books.",
-  "livrosCorrespondemAosFiltrosSelecionados": "{{length}} books meet the filters criteria."
+  "livrosCorrespondemAosFiltrosSelecionados": "{{length}} books meet the filters criteria.",
+  "nenhumLivroSelecionado": "No books selected.",
+  "removendoLivros": "Removing books...",
+  "erroAoMoverTenteNovamente": "Error while moving: {{title}}, try again.",
+  "biggestReadByPages": "Biggest read: <s>{{title}} </s> by <s2>{{author}} </s2> ( {{pages}} pages)",
+  "yearlyReadingAverageBookPerMonth": "Yearly reading average: <s>{{monthlyAverage}} </s> book per month",
+  "totalPagesReadPages": "Total pages read: <s>{{pagesRead}} </s> pages",
+  "totalBooksBooks": "Total books: <s>{{calculateNumOfBooks}} </s>{{expr}} books",
+  "statistics": "Statistics",
+  "close": "Close",
+  "generalStatistics": "General statistics",
+  "removendoLivros2": "Removing books...",
+  "movendoLivros": "Moving books...",
+  "yourLibraryComposition": "Your library composition",
+  "yourMonthlyReading": "Your monthly reading"
 }
