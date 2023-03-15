@@ -44,5 +44,7 @@
   "betaDoBibliomar": "Bibliomar's beta",
   "bemVindoDeVoltaEsperamosQueEncontreOQueProcura": "Welcome back, <s>{{username}}</s>! <b/> We hope you find what you are looking for.",
   "espanhol": "Spanish",
-  "francs": "French"
+  "francs": "French",
+  "atenoEstamosMigrandoParaUmNovoDominoNossoDomnioSit": "<s> NOTICE: </s> We are migrating to a new domain. <b/> Our <s2> .site </s2> domain will expire at ",
+  "atualizeSeusFavoritos": "Update your bookmarks:"
 }

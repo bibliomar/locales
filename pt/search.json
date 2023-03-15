@@ -44,5 +44,7 @@
   "betaDoBibliomar": "beta do Bibliomar",
   "bemVindoDeVoltaEsperamosQueEncontreOQueProcura": "Bem vindo de volta, <s>{{username}}</s>! <b/> Esperamos que encontre o que você procura.",
   "espanhol": "Espanhol",
-  "francs": "Francês"
+  "francs": "Francês",
+  "atenoEstamosMigrandoParaUmNovoDominoNossoDomnioSit": "<s> ATENÇÃO: </s> Estamos migrando para um novo dominío. <b/> Nosso domínio <s2> .site </s2> ficara indisponível a partir de ",
+  "atualizeSeusFavoritos": "Atualize seus favoritos:"
 }
